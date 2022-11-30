@@ -2,13 +2,13 @@
 
 # Relevant Files
 
-- > **Queries Used.txt** - Hive Queries used for Cleaning the Data
+- **```Queries Used.txt```** - Hive Queries used for Cleaning the Data
 
-- > **1_data-processing** - Data Processing Using PySpark
+- **```1_data-processing.ipynb```** - Data Processing Using PySpark
 
-- > **2_eda-modelling** - Contains code for Exploratory Data Analysis
+- **```2_eda-modelling.ipynb```** - Contains code for Exploratory Data Analysis
 
-- > **model_building_v2** - Script contains modelling and performace of the model used
+- **```model_building_v2.ipynb```** - Script contains modelling and performace of the model used
 
 # Application Architecture
 
