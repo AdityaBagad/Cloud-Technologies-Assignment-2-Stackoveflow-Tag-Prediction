@@ -21,7 +21,3 @@
 ![ss3.JPG](Screenshots/ss2.JPG)
 
 ![ss3.JPG](Screenshots/ss4.JPG)
-
-# Confusion Matrix for Predictions
-
-![Arch, cm](Screenshots/cm.png)
