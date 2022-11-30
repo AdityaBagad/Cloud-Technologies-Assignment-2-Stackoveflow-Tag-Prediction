@@ -12,16 +12,16 @@
 
 # Application Architecture
 
- ![Arch, Arch](/Final\Architecture.drawio.png)
+ ![Architecture](FinaArchitecture.png)
 
  # Screenshots
 
-![Arch, ss1](/ss1.JPG)
+![ss3.JPG](Screenshots/ss1.JPG)
 
-![Arch, ss2](/ss2.JPG)
+![ss3.JPG](Screenshots/ss2.JPG)
 
-![Arch, ss3](/ss3.JPG)
+![ss3.JPG](Screenshots/ss4.JPG)
 
 # Confusion Matrix for Predictions
 
-![Arch, cm](/cm.png)
+![Arch, cm](Screenshots/cm.png)
