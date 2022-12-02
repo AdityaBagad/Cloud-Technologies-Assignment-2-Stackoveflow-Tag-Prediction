@@ -10,6 +10,22 @@
 
 - **```model_building_v2.ipynb```** - Script contains modelling and performace of the model used
 
+# Executing Front-End Application
+
+All the code for front-end application built using Flask can be found in ```/FlaskApp``` folder. Follow the below procedure to execute application
+
+### 1. Clone the repository
+
+> git clone https://github.com/AdityaBagad/Cloud-Technologies-Assignment-2-Stackoveflow-Tag-Prediction.git
+
+### 2. Install the dependencies using
+
+> pip install -r requirements.txt
+
+### 3. Run command to start the application
+
+> python \_\_init\_\_.py
+
 # Application Architecture
 
  ![Architecture](FinaArchitecture.png)
