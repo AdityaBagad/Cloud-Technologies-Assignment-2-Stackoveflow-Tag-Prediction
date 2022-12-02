@@ -12,13 +12,15 @@
 
 # Executing Front-End Application
 
-All the code for front-end application built using Flask can be found in ```/FlaskApp``` folder. Follow the below procedure to execute application
+All the code for front-end application built using Flask can be found in ```/FlaskApp```. The file ```requirements.txt``` can be found in **FlaskApp folder** as well. Follow the below procedure to execute application.
 
 ### 1. Clone the repository
 
 > git clone https://github.com/AdityaBagad/Cloud-Technologies-Assignment-2-Stackoveflow-Tag-Prediction.git
 
 ### 2. Install the dependencies using
+
+> cd Cloud-Technologies-Assignment-2-Stackoveflow-Tag-Prediction/FlaskApp
 
 > pip install -r requirements.txt
 
